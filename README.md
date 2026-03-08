@@ -113,7 +113,7 @@ I enjoy building scalable backend systems, APIs, and full stack applications.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=githitesh201&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=githitesh201&theme=github-dark&hide_border=true&hide_longest_streak=true"/>
 </p>
 
 ---
